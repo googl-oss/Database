@@ -1,0 +1,29 @@
+body {
+  font-family: "motiva sans", arial, sans-serif;
+  font-size: 16pt;
+  color: #a2a09b;
+
+  margin: 44px 36px 36px 36px;
+  background: #2c2c2c;
+
+  scrollbar-face-color: #4c5844;
+  scrollbar-shadow-color: #4c5844;
+  scrollbar-highlight-color: #4c5844;
+  scrollbar-3dlight-color: #818d7c;
+  scrollbar-darkshadow-color: #1c261e;
+  scrollbar-track-color: #5a6a50;
+  scrollbar-arrow-color: #969f8e;
+}
+a {
+  color: #a2a09b;
+}
+a:hover {
+  color: #a2a09c;
+  text-decoration: initial;
+}
+a:visited {
+  color: #a2a09b;
+}
+a:active {
+  color: #a2a09b;
+}
